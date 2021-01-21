@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitSample</string>
+    <string name="desc_recycler_item">테스트 리사이클러 뷰 아이템의 커버 이미지</string>
+    <string name="custom_row_title">title</string>
+</resources>
