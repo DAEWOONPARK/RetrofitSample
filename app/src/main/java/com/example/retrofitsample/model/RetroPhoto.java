@@ -1,6 +1,13 @@
 package com.example.retrofitsample.model;
 
+import android.widget.ImageView;
+
+import androidx.databinding.BindingAdapter;
+
+import com.example.retrofitsample.R;
 import com.google.gson.annotations.SerializedName;
+import com.jakewharton.picasso.OkHttp3Downloader;
+import com.squareup.picasso.Picasso;
 
 public class RetroPhoto {
 
